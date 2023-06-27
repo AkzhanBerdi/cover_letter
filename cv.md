@@ -16,7 +16,7 @@
 - HTML parsing for product enhancement.
 - Ad-hoc EDA analysis reports.
 
-**Business Owner at Almaty Plastic-Free                                                    Feb 2020 – Apr 2022**
+**Business Owner at Almaty Plastic-Free                                                    Feb 2020 – Apr 2022**
 
 - Carrying out overall business vision.
 - Business entity development as supplier in HoReCa.
