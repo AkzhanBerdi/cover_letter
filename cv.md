@@ -1,28 +1,53 @@
-##                                                                 AKZHAN BERDEYEV
+## AKZHAN BERDEYEV
 
-                Almaty, Kazakhstan | [website](https://almpf.kz) | [+77713974173](https://t.me/akzhan_berdi) |[akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com)
+   | +77713974173 | Almaty, Kazakhstan | [Discord](discordapp.com/users/aki_berdi) | [Website](https://almpf.kz) | [Telegram](https://t.me/akzhan_berdi) | [akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com) |
+
+### Summary
+  Hi! My name is Akzhan. I'm a professional Data Analyst/Engineer and an enthusiast Python Developer. Currently working on my Front-End skills with whimsical JavaScript according to JS/FE Pre-School 2023Q2 syllabus. I have unique life experience as international alumni in South China University of Technology, a wide engineering experience as Technical Interpreter at Asia Gas Pipeline, and I've also did contribute to global warming challenges by running my company Almaty Plastic-Free supplying HoReCa with biodegradable disposal utensils and coffee cups for 3 years straight. My personality and background harmonically shaped me into my current career and I find it joyful to develop both as Data Analyst and Web Developer alike.
+
+### Skills
+
+   | JQuery | JavaScript | Python | Flask | Django | REST | FAST | PostgreSQL | Git | Linux | WSL2 | Docker | Insomnia |
+
+### JavaScript Code Sample
+```
+function multiply(a, b){
+  return a * b
+}
+```
+### Python Code Sample
+```
+def isPolindrom(x) -> Bool:
+   y = x.split()             # converting 'x' value of string into a list
+   y.reverse()               # applying reverse method to validate a polindrom match between 'x' and 'y'
+   y = ''join(y)             # converting reversed list back to the string value
+   if x == y:
+      return True
+   else:
+      return False
+```
 
 ### Employment
 
-**Unemployed Part-Time Freelancer                                                                     Dec 2022**
+**Part-Time Freelancer | Dec 2022**
 
 - Mentored 20 students under TechOrda Power BI scholarship at DataBoom.kz.
 - Data Analysis and Web Development outsourcing jobs at Upwork.
 - Building personal portfolio, not limited to the list shown below.
 
-**Data Processing Specialist at Nielsen IQ                                                 Apr 2022 – Nov 2022**
+**Data Processing Specialist at Nielsen IQ | Apr 2022 – Nov 2022**
 
 - ETL/ELT for data products such as Nielsen Answers.
 - HTML parsing for product enhancement.
 - Ad-hoc EDA analysis reports.
 
-**Business Owner at Almaty Plastic-Free                                                    Feb 2020 – Apr 2022**
+**Business Owner at Almaty Plastic-Free | Feb 2020 – Apr 2022**
 
 - Carrying out overall business vision.
 - Business entity development as supplier in HoReCa.
 - Executive decision-making via ERP and BI visualization tools.
 
-**Technical Translator at Asia Gas Pipeline                                                Sep 2016 – Feb 2020**
+**Technical Translator at Asia Gas Pipeline | Sep 2016 – Feb 2020**
 
 - Translation duties on Gas Compressor Station.
 - Construction, operation and maintenance coordination on site.
@@ -30,30 +55,30 @@
 
 ### **Projects**
 
-- **Weather Alert**. The outdoor activity solution deployed on Heroku
-   cloud platform. It utilizes REST API to parse weather data on hiking
-   destinations. JavaScript weather widget displays current weather and the telegram
+- **[Weather Alert](https://github.com/AkzhanBerdi/no_cavi_box)**. The outdoor activity solution deployed on Heroku
+   cloud platform. It utilizes BeautifulSoup to parse weather data on hiking
+   destinations. JavaScript weather [widget](https://github.com/AkzhanBerdi/weather_widget) displays current weather and the telegram
    bot notifying the community group about precipitation changes like snow/rain
    and sums up duration over time.
   
-- **Singularity Escape**. A complete conceptual game developed on Pygame.
+- **[Singularity Escape](https://github.com/AkzhanBerdi/singularity_escape)**. A complete conceptual game developed on Pygame.
    You playing as a satellite trying to escape the black hole gravitation and
    eventual asteroid collisions. The script utilizes OOP, sprite animation
    and background music from Resident Evil 2 Remake.
   
-- **Omnichannel Ad Performance Pipeline**.
+- **[Omnichannel Ad Performance Pipeline](https://github.com/AkzhanBerdi/mcdm-test)**.
    The Google BigQuery serves as DWH for raw data from different marketing channels,
    further the connected DBT cloud data modeling performs ELT processes and
    exports final data according to Looker BI dashboard requirements.
   
-- **Personal Blog**. The web application developed using Django
+- **[Personal Blog](https://github.com/AkzhanBerdi/Personal_Blog)**. The web application developed using Django
    Generic Views, Django Rest Framework, and PostgreSQL with user
    authentication and dynamic interface using JavaScript.
   
 
 ### Education
 
-**South China University of Technology                                                                June 2015**
+**South China University of Technology | June 2015**
 
 - Major in Mandarin, GPA 3.1
 - Minor in Economics
