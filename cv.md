@@ -1,3 +1,6 @@
+
+![photo_2022-04-05_22-04-17](https://github.com/AkzhanBerdi/rsschool-cv/assets/113842172/0463f391-14c8-4309-b90d-22427d9e268e)
+
 ## AKZHAN BERDEYEV
 
    | +77713974173 | Almaty, Kazakhstan | [Discord](discordapp.com/users/aki_berdi) | [Website](https://almpf.kz) | [Telegram](https://t.me/akzhan_berdi) | [akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com) |
@@ -29,25 +32,25 @@ def isPolindrom(x) -> Bool:
 
 ### Employment
 
-**Part-Time Freelancer | Dec 2022**
+**Part-Time Freelancer** | **Dec 2022**
 
 - Mentored 20 students under TechOrda Power BI scholarship at DataBoom.kz.
 - Data Analysis and Web Development outsourcing jobs at Upwork.
 - Building personal portfolio, not limited to the list shown below.
 
-**Data Processing Specialist at Nielsen IQ | Apr 2022 – Nov 2022**
+**Data Processing Specialist at Nielsen IQ** | **Apr 2022 – Nov 2022**
 
 - ETL/ELT for data products such as Nielsen Answers.
 - HTML parsing for product enhancement.
 - Ad-hoc EDA analysis reports.
 
-**Business Owner at Almaty Plastic-Free | Feb 2020 – Apr 2022**
+**Business Owner at Almaty Plastic-Free** | **Feb 2020 – Apr 2022**
 
 - Carrying out overall business vision.
 - Business entity development as supplier in HoReCa.
 - Executive decision-making via ERP and BI visualization tools.
 
-**Technical Translator at Asia Gas Pipeline | Sep 2016 – Feb 2020**
+**Technical Translator at Asia Gas Pipeline** | **Sep 2016 – Feb 2020**
 
 - Translation duties on Gas Compressor Station.
 - Construction, operation and maintenance coordination on site.
@@ -78,7 +81,7 @@ def isPolindrom(x) -> Bool:
 
 ### Education
 
-**South China University of Technology | June 2015**
+**South China University of Technology** | **June 2015**
 
 - Major in Mandarin, GPA 3.1
 - Minor in Economics
