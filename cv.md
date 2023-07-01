@@ -3,14 +3,18 @@
 
 ## AKZHAN BERDEYEV
 
-   | +77713974173 | Almaty, Kazakhstan | [Discord](discordapp.com/users/aki_berdi) | [Website](https://almpf.kz) | [Telegram](https://t.me/akzhan_berdi) | [akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com) |
+   | +77713974173 | Almaty, Kazakhstan | [Resume](https://drive.google.com/file/d/1lVsivZcYA4moFt63r0v0rq_LEWCwnn7V/view?usp=sharing) | [Discord](discordapp.com/users/aki_berdi) | [Website](https://almpf.kz) | [Telegram](https://t.me/akzhan_berdi) | [LinkedIn](https://www.linkedin.com/in/akzhanberdi/recent-activity/all/) | [akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com) |
 
 ### Summary
   Hi! My name is Akzhan. I'm a professional Data Analyst/Engineer and an enthusiast Python Developer. Currently working on my Front-End skills with whimsical JavaScript according to JS/FE Pre-School 2023Q2 syllabus. I have unique life experience as international alumni in South China University of Technology, a wide engineering experience as Technical Interpreter at Asia Gas Pipeline, and I've also did contribute to global warming challenges by running my company Almaty Plastic-Free supplying HoReCa with biodegradable disposal utensils and coffee cups for 3 years straight. My personality and background harmonically shaped me into my current career and I find it joyful to develop both as Data Analyst and Web Developer alike.
 
-### Skills
+### Programming skills
 
-   | JQuery | JavaScript | Python | Flask | Django | REST | FAST | PostgreSQL | Git | Linux | WSL2 | Docker | Insomnia |
+   | JavaScript | Python | Django | REST | PostgreSQL | Git | Linux | Insomnia |
+
+### Analytical skills
+
+   | BI | DWH & Data Modeling | Pipeline Deployment | dbt cloud | Activity Schema |
 
 ### JavaScript Code Sample
 ```
@@ -22,7 +26,7 @@ function multiply(a, b){
 ```
 def isPolindrom(x) -> Bool:
    y = x.split()             # converting 'x' value of string into a list
-   y.reverse()               # applying reverse method to validate a polindrom match between 'x' and 'y'
+   y.reverse()               # applying reverse method for polindrom validation match between 'x' and 'y'
    y = ''join(y)             # converting reversed list back to the string value
    if x == y:
       return True
@@ -36,7 +40,7 @@ def isPolindrom(x) -> Bool:
 
 - Mentored 20 students under TechOrda Power BI scholarship at DataBoom.kz.
 - Data Analysis and Web Development outsourcing jobs at Upwork.
-- Building personal portfolio, not limited to the list shown below.
+- Conducting mock interviews and shaping IT fundamentals.
 
 **Data Processing Specialist at Nielsen IQ** | **Apr 2022 – Nov 2022**
 
