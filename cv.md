@@ -19,9 +19,9 @@
 ### Python Code Sample
 ```
 def isPolindrom(x: str) -> Bool:
-   y = x.split()             # converting 'x' value of string into a list
-   y.reverse()               # applying reverse method for polindrom validation match between 'x' and 'y'
-   y = ''.join(y)             # converting reversed list back to the string value
+   y = x.split()                # converting 'x' value of string into a list
+   y.reverse()                  # applying reverse method for polindrom validation match between 'x' and 'y'
+   y = ''.join(y)               # converting reversed list back to the string value
    if x == y:
       return True
    else:
@@ -77,7 +77,7 @@ def isPolindrom(x: str) -> Bool:
    authentication and dynamic interface using JavaScript.
 
 - **[Social Network + Calendly](https://github.com/AkzhanBerdi/bookMeni)**. Social Network for students and mentors.
-   Platform enables a feature to book a mock-interview using Google Calendar API, sort of like Calendly.
+   The platform enables a feature to book a mock-interview using Google Calendar API, sort of like Calendly does.
    Google Calendar API and Login with Google OAuth2.0 were implemented
   
 
