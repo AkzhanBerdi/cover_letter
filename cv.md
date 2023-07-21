@@ -16,18 +16,12 @@
 
    | BI | DWH & Data Modeling | Pipeline Deployment | dbt cloud | Activity Schema |
 
-### JavaScript Code Sample
-```
-function multiply(a, b){
-  return a * b
-}
-```
 ### Python Code Sample
 ```
-def isPolindrom(x) -> Bool:
+def isPolindrom(x: str) -> Bool:
    y = x.split()             # converting 'x' value of string into a list
    y.reverse()               # applying reverse method for polindrom validation match between 'x' and 'y'
-   y = ''join(y)             # converting reversed list back to the string value
+   y = ''.join(y)             # converting reversed list back to the string value
    if x == y:
       return True
    else:
@@ -81,6 +75,10 @@ def isPolindrom(x) -> Bool:
 - **[Personal Blog](https://github.com/AkzhanBerdi/Personal_Blog)**. The web application developed using Django
    Generic Views, Django Rest Framework, and PostgreSQL with user
    authentication and dynamic interface using JavaScript.
+
+- **[Social Network + Calendly](https://github.com/AkzhanBerdi/bookMeni)**. Social Network for students and mentors.
+   Platform enables a feature to book a mock-interview using Google Calendar API, sort of like Calendly.
+   Google Calendar API and Login with Google OAuth2.0 were implemented
   
 
 ### Education
