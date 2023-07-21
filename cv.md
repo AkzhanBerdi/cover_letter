@@ -18,14 +18,12 @@
 
 ### Python Code Sample
 ```
-def isPolindrom(x: str) -> Bool:
-   y = x.split()                # converting 'x' value of string into a list
-   y.reverse()                  # applying reverse method for polindrom validation match between 'x' and 'y'
-   y = ''.join(y)               # converting reversed list back to the string value
-   if x == y:
-      return True
-   else:
-      return False
+def isPolindrom(x: str) -> bool:
+   y = x.split()                   # converting 'x' value of string into a list
+   y.reverse()                     # applying reverse method for polindrom validation match between 'x' and 'y'
+   y = ''.join(y)                  # converting reversed list back to the string value
+
+   return y == x                   # Returns True if 'x' and 'y' are polindromes, False otherwise
 ```
 
 ### Employment
