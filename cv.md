@@ -1,74 +1,49 @@
-##                                                                 AKZHAN BERDEYEV
+# AKZHAN BERDEYEV | +77713974173 | Almaty, Kazakhstan
 
-                Almaty, Kazakhstan | [website](https://almpf.kz) | [+77713974173](https://t.me/akzhan_berdi) |[akzhan.berdeyev@gmail.com](mailto:akzhan.berdeyev@gmail.com)
+## Work Experience
 
-### Employment
+### Data Analyst at Halyk Market | Aug 2023 - Present
+- Building and maintaining Data Pipelines from external sources via Apache Airflow.
+- Data Infrastructure Administration including ClickHouse in MPP, Apache Superset, Jupyter Hub.
+- Ad-hoc services development like Telegram-bot notification, SMTP email automatization, etc.
+- Conducting exploratory Data Analysis providing insights.
+  
+### Freelance Developer | Dec 2022 - Aug 2023
+- Mentored Power BI and SQL courses at DataBoom.kz.
+- Data Storage + BI systems development for SME in Food & Beverage.
+- Omnichannel traffic performance funnel reporting with Cost Per Click Analysis.
 
-**Unemployed Part-Time Freelancer                                                                     Dec 2022**
-
-- Mentored 20 students under TechOrda Power BI scholarship at DataBoom.kz.
-- Data Analysis and Web Development outsourcing jobs at Upwork.
-- Building personal portfolio, not limited to the list shown below.
-
-**Data Processing Specialist at Nielsen IQ                                                 Apr 2022 – Nov 2022**
-
-- ETL/ELT for data products such as Nielsen Answers.
-- HTML parsing for product enhancement.
+### Data Analyst at Nielsen IQ | Apr 2022–Nov 2022
+- Statistical Data Analysis per customer request including Forecasting and Cluster analysis.
+- HTML parsing of Goods characteristics for product enhancement.
 - Ad-hoc EDA analysis reports.
 
-**Business Owner at Almaty Plastic-Free                                                    Feb 2020 – Apr 2022**
+### Business Owner at Almaty Plastic-Free | Feb 2020–Apr 2022
+- Carrying out overall business vision and operations.
+- Established partnership with 30 HoReCa clients in CIS region.
+- Implemented express delivery in less than 3 hours in Almaty/Astana.
 
-- Carrying out overall business vision.
-- Business entity development as supplier in HoReCa.
-- Executive decision-making via ERP and BI visualization tools.
+### Technical Translator at Asia Gas Pipeline | Sep 2016–Feb 2020
+- Translation duties on Oil and Gas Compressor Station.
+- Construction, operation, and maintenance coordination on site.
+- Multinational team collaboration, and problem/conflict solving.
 
-**Technical Translator at Asia Gas Pipeline                                                Sep 2016 – Feb 2020**
+## Projects
+- **Bad Dog Data:** Personal blog developed on JS Vue3 Nuxt Content. Writing content on how to self-learn Data Science. Available at [baddogdata.com](https://baddogdata.com).
+- **Omnichannel Traffic Report:** Automating ETL for Digital Marketing campaigns using Google, Meta, Tiktok add service accounts to feed end-user BI system as part of MMM project.
+- **Pygame Reinforcement Learning:** The Deep Q-Networks algorithm implemented on self-developed PyGame pet-project. Agent reads the score as the reward and improves exponentially with itterations.
+- **Telegram Fraud-Alert Notification:** The algorithm of detecting un-ethical credit transactions using marketplace's installment plans, the telegram-bot notifies such transaction for due diligence.
 
-- Translation duties on Gas Compressor Station.
-- Construction, operation and maintenance coordination on site.
-- Multinational team collaboration, and problem / conflict solving.
+## Education
+- **South China University of Technology | June 2015**
+  - Major in Mandarin, GPA 3.1
+  - Minor in Economics
 
-### **Projects**
-
-- **Weather Alert**. The outdoor activity solution deployed on Heroku
-   cloud platform. It utilizes REST API to parse weather data on hiking
-   destinations. JavaScript weather widget displays current weather and the telegram
-   bot notifying the community group about precipitation changes like snow/rain
-   and sums up duration over time.
-  
-- **Singularity Escape**. A complete conceptual game developed on Pygame.
-   You playing as a satellite trying to escape the black hole gravitation and
-   eventual asteroid collisions. The script utilizes OOP, sprite animation
-   and background music from Resident Evil 2 Remake.
-  
-- **Omnichannel Ad Performance Pipeline**.
-   The Google BigQuery serves as DWH for raw data from different marketing channels,
-   further the connected DBT cloud data modeling performs ELT processes and
-   exports final data according to Looker BI dashboard requirements.
-  
-- **Personal Blog**. The web application developed using Django
-   Generic Views, Django Rest Framework, and PostgreSQL with user
-   authentication and dynamic interface using JavaScript.
-  
-
-### Education
-
-**South China University of Technology                                                                June 2015**
-
-- Major in Mandarin, GPA 3.1
-- Minor in Economics
-
-**Microsoft Test Center**
-
+## Certifications
 - DP-900 Azure Data Fundamentals
 - PL-300 Power BI Data Analytics Associate certificate
 
-**Training and Courses**
-
-- RS School – JavaScript/Front-End
+## Training and Courses
 - Outpeer.kz – Python Development
 - EPAM – Data Analytics and Engineering
-
-**Preferred Stack**
-
-- Linux, PostgreSQL, Python3, Django/Flask, JavaScript
+- KBTU – Statistical Data Analysis
