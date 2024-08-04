@@ -9,7 +9,7 @@ Currently looking for a new role to utilize my experience and background, and ho
 ---
 
 **I'm interested in:**
-- Statistical Data Analysis,
+- Statistical Data Analysis and ML,
 - Backend Service Development,
 - DWH - ETL - BI Development and Maintenance,
 - Mentorship and Team Development,
