@@ -1,4 +1,4 @@
-## AKZHAN BERDEYEV | +77713974173 | Almaty, Kazakhstan | @akzhan_berdi
+## AKZHAN BERDEYEV | +77713974173 | @akzhan_berdi
 
 ### To whom it may concern
 
