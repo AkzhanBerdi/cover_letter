@@ -1,8 +1,8 @@
-## AKZHAN BERDEYEV | +77713974173 | @akzhan_berdi
+## AKZHAN BERDEYEV | +77713974173 | @akzhan_berdi |
 
 ### To whom it may concern
 
-Hi! My name is Akzhan, and I'm strong, confident, intelligent human being that loves to work in the team and deliver.  
+Hi! My name is Akzhan, and I'm strong, confident, intelligent human being that loves to work in the team and deliver results.  
 For the last couple of years I dedicated my professional life to Data Analysis and Python Development, which means that I do both.  
 Currently looking for a new role to utilize my experience and background, and hopefully match with the brilliant employer I deserve.  
 
