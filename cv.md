@@ -14,21 +14,21 @@ Currently looking for a new role to utilize my experience and background, and ho
 - DWH - ETL - BI Development and Maintenance,
 - Mentorship and Team Development,
 - Product Management,
-- [Blogging](https://baddogdata.com) and Public Speaking
+- [Blogging](https://baddogdata.com) and Public Speaking,
 ---
 
 **My personality type:**
 
 - Tenacious,
 - Innovative,
-- Analytical
+- Analytical,
 ---
 
 **Role Fit:**
 
 - Roles dealing with implementing new practies, conflict management,
 - Roles that allows me to create, conceptualise, and innovate to deliver results,
-- Roles which relate to research, analysis, data analytics, or applying rational thinking to solve problems
+- Roles which relate to research, analysis, data analytics, or applying rational thinking to solve problems,
 ---
 
 
