@@ -1,1 +1,1 @@
-https://AkzhanBerdi.github.io/my_cv/cv
+https://AkzhanBerdi.github.io/cover_letter/cv
